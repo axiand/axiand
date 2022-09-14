@@ -1,6 +1,8 @@
 # Axi
 *Everything you need to know about me*
 
+🕓 **CET (UTC+1)**
+
 ## My knowledge:
 - JavaScript (+ TypeScript, to an extent)
 - HTML/CSS
