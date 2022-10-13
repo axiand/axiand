@@ -3,8 +3,10 @@
 
 🕓 **CET (UTC+1)**
 
+he/him
+
 ## My knowledge:
-- JavaScript (+ TypeScript, to an extent)
+- JavaScript
 - HTML/CSS
 - Lua
 - The Windows command line (And Bash too, at a beginner level)
@@ -39,8 +41,6 @@ Currently, probably the best way to reach out to me personally is over Discord: 
 
 Though, you may be ignored if I don't know who you are, sorry. Consider submitting an issue instead if applicable.
 
-## 😄 Pronouns...
-amab he/him
+---
 
-## ⚡ Fun fact...
-If you read this far, hello!
+if you read this far, 'sup
