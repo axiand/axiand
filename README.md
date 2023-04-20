@@ -4,7 +4,7 @@
 🕓 **CET (UTC+1)**
 he/him
 
-## 🛠 Experience
+## 👨‍🎓 Experience
 - JavaScript
 - HTML/CSS
 - Lua
