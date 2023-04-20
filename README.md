@@ -15,8 +15,8 @@ he/him
 - GitHub (and, of course, Git)
 
 ## 🔭 I’m currently working on...
-- [Origami](https://github.com/axiand/origami), a JavaScript API framework.
-- Whatever other passion projects I come up with.
+- ~~[Origami](https://github.com/axiand/origami), a JavaScript API framework.~~ Temporarily on Soon:tm: status
+- Other things every now and then.
 
 ## 📫 How to reach me...
 Currently, probably the best way to reach out to me personally is over Discord: axi#0984.
