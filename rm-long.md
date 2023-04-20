@@ -20,8 +20,8 @@ he/him
 - GitHub (and, of course, Git)
 
 ## 🔭 I’m currently working on...
-- [Origami](https://github.com/axiand/origami), a JavaScript API framework.
-- Whatever other passion projects I come up with.
+- ~~[Origami](https://github.com/axiand/origami), a JavaScript API framework.~~ Temporarily on Soon:tm: status
+- Other things every now and then.
 
 ## 🌱 I’m currently learning...
 - JavaScript, always looking to improve
