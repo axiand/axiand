@@ -8,11 +8,14 @@ he/him
 - JavaScript
 - HTML/CSS
 - Lua
-- The Windows command line (And Bash too, at a beginner level)
-- Visual Studio Code
+- Windows command line (And Bash too, at a beginner level)
 - Node.js
+- Git
+
+## Tools Used
 - Windows 10
-- GitHub (and, of course, Git)
+- Visual Studio Code
+- GitHub
 
 ## 🔭 I’m currently working on...
 - ~~[Origami](https://github.com/axiand/origami), a JavaScript API framework.~~ Temporarily on Soon:tm: status
