@@ -12,7 +12,7 @@ he/him
 - Node.js
 - Git
 
-## Tools Used
+## 🛠 Tools Used
 - Windows 10
 - Visual Studio Code
 - GitHub
