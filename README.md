@@ -22,8 +22,8 @@ he/him
 - Other things every now and then.
 
 ## 📫 How to reach me...
-Currently, probably the best way to reach out to me personally is over Discord: axi#0984.
+If it's related to one of my projects: submit an issue / PR.
 
-Though, you may be ignored if I don't know who you are, or if we have no mutual servers / friends, sorry. Consider submitting an issue instead if applicable.
+If it's something else or you're reporting a security issue: TODO set up a reliable way of communication. GitHub please add PMs
 
 [Full README available here](https://github.com/axiand/axiand/blob/main/rm-long.md)
