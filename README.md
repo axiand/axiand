@@ -8,7 +8,6 @@ he/him
 - JavaScript
 - HTML/CSS
 - Lua
-- Windows command line (And Bash too, at a beginner level)
 - Node.js
 - Git
 
@@ -18,7 +17,7 @@ he/him
 - GitHub
 
 ## 🔭 I’m currently working on...
-- ~~[Origami](https://github.com/axiand/origami), a JavaScript API framework.~~ Temporarily on Soon:tm: status
+- [Origami](https://github.com/axiand/origami), a JavaScript API framework.
 - Other things every now and then.
 
 ## 📫 How to reach me...
