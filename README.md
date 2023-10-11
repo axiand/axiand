@@ -23,6 +23,6 @@ he/him
 ## 📫 How to reach me...
 If it's related to one of my projects: submit an issue / PR.
 
-If it's something else or you're reporting a security issue: TODO set up a reliable way of communication. GitHub please add PMs
+If it's something else or you're reporting a security issue: Send a message to the address on my profile.
 
 [Full README available here](https://github.com/axiand/axiand/blob/main/rm-long.md)
