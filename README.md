@@ -1,6 +1,8 @@
 # Axi
 *Everything you need to know about me*
 
+[Come visit my homepage](https://axiand.github.io/)
+
 🕓 **CET (UTC+1)**
 he/him
 
