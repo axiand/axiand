@@ -29,4 +29,6 @@ If it's related to one of my projects: submit an issue / PR.
 
 If it's something else or you're reporting a security issue: Send a message to the address on my profile.
 
+Don't try to reach me over Discord, etc. I ignore friend requests from strangers!
+
 [Full README available here](https://github.com/axiand/axiand/blob/main/rm-long.md)
