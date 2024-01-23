@@ -4,7 +4,7 @@
 [Come visit my homepage](https://axiand.github.io/)
 
 🕓 **CET (UTC+1)**
-he/him
+any
 
 ## 👨‍🎓 Experience
 - JavaScript
