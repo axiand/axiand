@@ -3,7 +3,7 @@
 
 🕓 **CET (UTC+1)**
 
-he/him
+any/all
 
 ## My knowledge:
 - JavaScript
@@ -39,7 +39,7 @@ If you want, I'll offer feedback on anything you're working on.
 ## 📫 How to reach me...
 If it's related to one of my projects: submit an issue / PR.
 
-If it's something else or you're reporting a security issue: TODO set up a reliable way of communication. GitHub please add PMs
+If it's something else or you're reporting a security issue: Send a message to the address on my profile.
 
 ---
 
