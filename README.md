@@ -4,7 +4,9 @@
 [Come visit my homepage](https://axiand.github.io/)
 
 🕓 **CET (UTC+1)**
-any
+any/all
+
+I go by many names depending on platform. Sorry if it gets a little confusing sometimes /shrug
 
 ## 👨‍🎓 Experience
 - JavaScript
