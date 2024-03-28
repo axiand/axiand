@@ -9,7 +9,8 @@ any/all
 I go by many names depending on platform. Sorry if it gets a little confusing sometimes /shrug
 
 ## 🔭 I’m currently working on...
-- [Origami](https://github.com/axiand/origami), a JavaScript API framework.
+- Co-maintaining [Fuji](https://github.com/FujiAPI/Fuji), a mod loader for Celeste 64.
+- [Origami](https://github.com/axiand/origami), a JavaScript API framework. (sparsely)
 - Other things every now and then.
 
 ## 📫 How to reach me...
