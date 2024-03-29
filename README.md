@@ -1,5 +1,4 @@
-# Axi
-*high-level language "expert"*
+### high-level language maybe-expert
 
 [Come visit my homepage](https://axiand.github.io/)
 
