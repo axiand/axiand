@@ -3,4 +3,6 @@
 🕓 **CET (UTC+1)** / any/all
 
 If you're trying to reach out about one of my projects, please submit an issue or use the e-mail address on my profile - you will likely be ignored on any other platform.
-See [my personal site](https://axiand.github.io/) for more info about me
+
+---
+See [my personal site](https://axiand.github.io/) for more info about me.
